@@ -2,6 +2,9 @@
 
 Comprehensive, exam-focused study guides and complete step-by-step assignment solutions for the NPTEL Deep Learning course taught by Prof. Mitesh M. Khapra (IIT Madras).
 
+### 🔢 Exam Numericals Master-Guide
+- **[numericals.md](numericals.md)**: Fully solved, step-by-step mathematical numericals covering 1- and 2-hidden-layer backpropagation, weight updates, Softmax cross-entropy, modern optimizers (Momentum, NAG, AdaGrad, RMSProp, Adam), PLA & Novikoff's bound, PCA/SVD, Batch Normalization, CNN parameter counts, and Attention.
+
 ---
 
 ## 📚 Weekly Study Material & Assignment Solutions
